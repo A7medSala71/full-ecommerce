@@ -110,9 +110,9 @@ http://localhost/full ecommerce/full ecommerce/
 
 For questions or support, please contact:
 
-**Developer:** [Your Name]  
-**Email:** [your.email@example.com]  
-**GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+**Developer:** [Ahmed Salah]  
+**Email:** [a7med.alah1416@gmail.com]  
+**GitHub:** [https://github.com/A7medSala71](https://github.com/A7medSala71)
 
 ---
 
